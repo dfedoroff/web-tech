@@ -51,3 +51,12 @@
 ![](./images/02-02-analyze_structure_of_site_page.png "Содержание главной страницы сайта")
 
 </details>
+
+Слева, в области контента располагается сервисная панель, а футер на главной странице отсутствует.
+
+<details>
+<summary><b>Cкриншот</b></summary>
+
+![](./images/02-03-analyze_structure_of_site_page.png "Содержание главной страницы сайта")
+
+</details>
