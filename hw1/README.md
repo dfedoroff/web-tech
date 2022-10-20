@@ -28,3 +28,14 @@
 ![](./images/01-what_protocol_does_site_work_on.png "Сайт работает на протоколе HTTPS")
 
 </details>
+
+2. Главная страница сайта содержит:
+- заголовок с логотипом компании
+- меню сайта
+- кнопку авторизации
+
+<summary><b>Cкриншот</b></summary>
+
+![](./images/02-01-analyze_structure_of_site_page.png "Содержание главной страницы сайта")
+
+</details>
