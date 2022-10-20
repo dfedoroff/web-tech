@@ -34,6 +34,7 @@
 - меню сайта
 - кнопку авторизации
 
+<details>
 <summary><b>Cкриншот</b></summary>
 
 ![](./images/02-01-analyze_structure_of_site_page.png "Содержание главной страницы сайта")
