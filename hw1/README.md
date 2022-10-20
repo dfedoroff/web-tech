@@ -71,3 +71,5 @@
 ![](./images/03-02-edited_main_page.png "Стало")
 
 </details>
+
+4. Создан прототип низкой детализации с использованием сервиса `wireframe.cc` доступный по [ссылке](https://wireframe.cc/XnP1q4).
