@@ -1,0 +1,15 @@
+html {
+    background-color: rgb(19, 21, 22);
+    font-size: 12px;
+    font-family: Monospace;
+}
+h1, h2 {
+    color: rgb(0, 77, 170);
+}
+p, ul{
+    color: rgb(49, 231, 164);
+    font-size: 17px;
+}
+footer{
+    color: rgb(232, 230, 227);
+}
